@@ -2,13 +2,14 @@
   "name": "blog",
   "version": "1.0.0",
   "description": "personal blog",
-  "repository": "",
+  "repository": "https://github.com/Lz-y/lzyaom.github.io",
   "author": "lzy",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev .",
-    "start": "vuepress dev .",
-    "build": "vuepress build ."
+    "build": "vuepress build .",
+    "deploy": "bash script/deploy.sh",
+    "push": "bash script/push.sh"
   },
   "dependencies": {
     "vuepress": "2.0.0-beta.46",

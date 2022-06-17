@@ -17,8 +17,7 @@ export default defineUserConfig({
     author: "lzyaom",
     authorAvatar: "/cat.svg",
     docsRepo: 'https://github.com/Lz-y/lzyaom.github.io',
-    docsBranch: "main",
-    docsDir: "blogs",
+    docsBranch: "gh-pages",
     lastUpdatedText: "最近更新时间",
     navbar: [
       { text: "首页", link: "/" },
