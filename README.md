@@ -17,7 +17,7 @@ banner:
   tagline: 简单就是快乐
 blog:
   socialLinks:
-    - { icon: 'BrandGithub', link: 'https://github.com/Lz-y' }
+    - { icon: 'BrandGithub', link: 'https://github.com/lzyaom' }
     - { icon: 'BrandTwitter', link: 'https://twitter.com/lzyaom' }
 isShowTitleInHome: true
 ---

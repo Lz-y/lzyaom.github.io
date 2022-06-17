@@ -16,7 +16,7 @@ export default defineUserConfig({
     logo: "/cat.svg",
     author: "lzyaom",
     authorAvatar: "/cat.svg",
-    docsRepo: 'https://github.com/Lz-y/lzyaom.github.io',
+    docsRepo: 'https://github.com/lzyaom/lzyaom.github.io',
     docsBranch: "gh-pages",
     lastUpdatedText: "最近更新时间",
     navbar: [
