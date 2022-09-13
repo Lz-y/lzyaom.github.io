@@ -18,6 +18,6 @@ banner:
 blog:
   socialLinks:
     - { icon: 'BrandGithub', link: 'https://github.com/lzyaom' }
-    - { icon: 'BrandTwitter', link: 'https://twitter.com/lzyaom' }
+    # - { icon: 'BrandTwitter', link: 'https://twitter.com/lzyaom' }
 isShowTitleInHome: true
 ---

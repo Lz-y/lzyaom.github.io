@@ -11,7 +11,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:Lz-y/lzyaom.github.io.git main:gh-pages
+git push -f git@github.com:lzyaom/lzyaom.github.io.git main:gh-pages
 
 cd ../
 rm -rf public
