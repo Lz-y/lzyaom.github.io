@@ -6,7 +6,7 @@
   "author": "lzy",
   "license": "MIT",
   "scripts": {
-    "dev": "vuepress dev .",
+    "dev": "rm -rf .vuepress/^[.*] && vuepress dev .",
     "build": "vuepress build .",
     "deploy": "bash script/deploy.sh",
     "push": "bash script/push.sh"
